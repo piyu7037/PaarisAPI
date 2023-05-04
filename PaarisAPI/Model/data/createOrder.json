@@ -1,0 +1,71 @@
+ { 
+        "data":  {
+                         "shipments": [ 
+                                                             {  "waybill":"",                                                            
+                                                            "sub_order":"",                                                        
+                                                            "city":"", 
+                                                            "state":"", 
+                                                            "country":"India",  
+                                                            "order":"SD001",
+                                                            "order_date":"{order_date}", 
+                                                            "total_amount":"{total_amount}", 
+                                                            "name":"{name}", 
+														    "company_name":"", 
+                                                            "add":"{add}",  
+                                                            "add2":"", 
+                                                            "add3":"", 
+                                                            "pin":"{pin}",                                                             
+                                                            "phone":"{phone}", 											
+															"alt_phone":"", 
+                                                            "email":"{email}", 
+                                                            "is_billing_same_as_shipping":"Yes",                                                             "billing_name":"{name}",
+                                                            "billing_company_name":"", 
+                                                            "billing_add":"", 
+                                                            "billing_add2":"", 
+                                                            "billing_add3":"",  
+                                                            "billing_pin" :"", 
+                                                            "billing_city":"", 
+                                                            "billing_state":"", 
+                                                            "billing_country":"", 
+                                                            "billing_phone":"", 
+                                                            "billing_alt_phone":"", 
+                                                            "billing_email":"", 
+															
+                                                            "products":[ 
+                                                                                            { 
+                                                                                            "product_name" : "{product_name}", 
+                                                                                            "product_sku" : "", 
+                                                                                            "product_quantity" : "{product_qty}", 
+                                                                                            "product_price" : "{product_price}", 
+                                                                                            "product_tax_rate" : "", 
+                                                                                            "product_hsn_code" : "91308", 
+                                                                                            "product_discount" : "0"
+                                                                                            } 
+                                                                                        ],
+                                                            "shipment_length" : "10", 
+                                                            "shipment_width" : "10",  
+                                                            "shipment_height" : "5", 
+                                                            "weight" : "400", 
+                                                            "shipping_charges" : "0",
+                                                            "giftwrap_charges" : "0", 
+                                                            "transaction_charges" : "0",
+                                                            "total_discount" : "0",
+                                                            "first_attemp_discount" : "0",
+                                                            "cod_charges" : "0", 
+                                                            "advance_amount" : "0", 
+                                                            "cod_amount" : "300", 
+                                                            "payment_mode" : "COD",
+                                                            "reseller_name" : "", 
+                                                            "eway_bill_number" : "", 
+                                                            "gst_number" : "", 
+                                                            "return_address_id" : "24" 
+                                                            } 
+                                                    ], 
+                        "pickup_address_id" : "1293",
+                        "access_token" : "5a7b40197cd919337501dd6e9a3aad9a", 
+                        "secret_key" : "2b54c373427be180d1899400eeb21aab", 
+                        "logistics" : "Delhivery", 
+                        "s_type" : "",
+                        "order_type" : ""
+                        } 
+        }
